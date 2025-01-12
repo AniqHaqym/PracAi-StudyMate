@@ -13,3 +13,4 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+- When streamlit is launched, ensure dark mode is turned on in the streamlit options.
